@@ -1,0 +1,12 @@
+{
+  "name": "passwordsLocker",
+  "displayName": "passwordsLocker",
+  "expo": {
+    "name": "passwordsLocker",
+    "slug": "passwordsLocker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
